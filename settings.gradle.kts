@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "AnimatedTabBar"
 include(":app")
- 
+include(":features:feature-one")
